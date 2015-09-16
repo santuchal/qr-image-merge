@@ -3,7 +3,7 @@
 	include('qrlib.php');
     include('config.php');
     $tempDir = 'temp/';
-	$name = 'Basuki IT Solutions Pvt. Ltd.';
+	$name = 'Santu Chall';
 	$roll = '98';
 	$url = 'http://www.basukiitsolutions.com';
 	$address = 'Salt Lake Sector V, Kolkata';
